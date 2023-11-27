@@ -354,9 +354,14 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.6f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Script/Collectible.cs"
 "Assets/Script/DataPersistent.cs"
+"Assets/Script/Dialogue.cs"
+"Assets/Script/Dialogue/DialogueSystem.cs"
 "Assets/Script/ICollectible.cs"
 "Assets/Script/LevelManagement.cs"
+"Assets/Script/NPC.cs"
+"Assets/Script/Objectif.cs"
 "Assets/Script/Player.cs"
+"Assets/Script/Quest.cs"
 "Assets/Script/ScoreUI.cs"
 -langversion:9.0
 

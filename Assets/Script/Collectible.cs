@@ -8,6 +8,8 @@ public class Collectible : MonoBehaviour,ICollectible
     public DataPersistent _data;
     [SerializeField]
     public int _value;
+    public string collectibleType;
+    public Quest quest;
 
     private void OnCollisionEnter(Collision collision)
     {

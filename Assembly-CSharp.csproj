@@ -58,11 +58,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.6f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Dialogue.cs" />
     <Compile Include="Assets\Script\DataPersistent.cs" />
+    <Compile Include="Assets\Script\Objectif.cs" />
+    <Compile Include="Assets\Script\Dialogue\DialogueSystem.cs" />
+    <Compile Include="Assets\Script\NPC.cs" />
     <Compile Include="Assets\Script\ICollectible.cs" />
     <Compile Include="Assets\Script\ScoreUI.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\Collectible.cs" />
+    <Compile Include="Assets\Script\Quest.cs" />
     <Compile Include="Assets\Script\LevelManagement.cs" />
   </ItemGroup>
   <ItemGroup>
